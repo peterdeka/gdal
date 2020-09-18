@@ -1,3 +1,3 @@
-module github.com/lukeroth/gdal
+module github.com/peterdeka/gdal
 
 go 1.13
